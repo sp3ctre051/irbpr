@@ -1,0 +1,39 @@
+{
+    "ok": true,
+    "task_id": "20260510_163829_de1530e2e73a6aa1",
+    "finished_at": "2026-05-10T17:01:40+00:00",
+    "response": {
+        "status": 403,
+        "reason": "",
+        "headers": {
+            "mime-version": [
+                "1.0"
+            ],
+            "content-type": [
+                "text/html"
+            ],
+            "content-length": [
+                "375"
+            ],
+            "cache-control": [
+                "max-age=0, no-cache, no-store"
+            ],
+            "pragma": [
+                "no-cache"
+            ],
+            "date": [
+                "Sun, 10 May 2026 17:01:40 GMT"
+            ],
+            "server-timing": [
+                "cdn-cache; desc=HIT",
+                "edge; dur=1",
+                "ak_p; desc=\"1778432500303_1600426589_3338756583_19_7584_14_85_15\";dur=1"
+            ],
+            "alt-svc": [
+                "h3=\":443\"; ma=93600"
+            ]
+        },
+        "body": "PEhUTUw+PEhFQUQ+CjxUSVRMRT5BY2Nlc3MgRGVuaWVkPC9USVRMRT4KPC9IRUFEPjxCT0RZPgo8SDE+QWNjZXNzIERlbmllZDwvSDE+CiAKWW91IGRvbid0IGhhdmUgcGVybWlzc2lvbiB0byBhY2Nlc3MgImh0dHAmIzU4OyYjNDc7JiM0Nzt3d3cmIzQ2O3dpa2lmeCYjNDY7Y29tJiM0NztlbiYjNDc7IiBvbiB0aGlzIHNlcnZlci48UD4KUmVmZXJlbmNlJiMzMjsmIzM1OzE4JiM0Njs1ZDkyNjQ1ZiYjNDY7MTc3ODQzMjUwMCYjNDY7YzcwMTYxZTcKPFA+aHR0cHMmIzU4OyYjNDc7JiM0NztlcnJvcnMmIzQ2O2VkZ2VzdWl0ZSYjNDY7bmV0JiM0NzsxOCYjNDY7NWQ5MjY0NWYmIzQ2OzE3Nzg0MzI1MDAmIzQ2O2M3MDE2MWU3PC9QPgo8L0JPRFk+CjwvSFRNTD4K",
+        "body_encoding": "base64"
+    }
+}
