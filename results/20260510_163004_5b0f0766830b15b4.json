@@ -1,0 +1,31 @@
+{
+    "ok": true,
+    "task_id": "20260510_163004_5b0f0766830b15b4",
+    "finished_at": "2026-05-10T16:30:08+00:00",
+    "response": {
+        "status": 403,
+        "reason": "Forbidden",
+        "headers": {
+            "Date": [
+                "Sun, 10 May 2026 16:30:07 GMT"
+            ],
+            "Content-Type": [
+                "application/json; charset=utf-8"
+            ],
+            "Content-Length": [
+                "107"
+            ],
+            "Access-Control-Allow-Origin": [
+                "*"
+            ],
+            "X-Ttl": [
+                "60"
+            ],
+            "X-Rl": [
+                "44"
+            ]
+        },
+        "body": "eyJzdGF0dXMiOiJmYWlsIiwibWVzc2FnZSI6IlNTTCB1bmF2YWlsYWJsZSBmb3IgdGhpcyBlbmRwb2ludCwgb3JkZXIgYSBrZXkgYXQgaHR0cHM6Ly9tZW1iZXJzLmlwLWFwaS5jb20vIn0=",
+        "body_encoding": "base64"
+    }
+}
