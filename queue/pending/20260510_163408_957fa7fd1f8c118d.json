@@ -1,0 +1,12 @@
+{
+    "task_id": "20260510_163408_957fa7fd1f8c118d",
+    "created_at": "2026-05-10T16:34:08+00:00",
+    "request": {
+        "method": "GET",
+        "url": "https://wikifx.com",
+        "headers": [],
+        "body": "",
+        "timeout": 30,
+        "follow_redirects": true
+    }
+}
