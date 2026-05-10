@@ -1,0 +1,12 @@
+{
+    "task_id": "20260510_163014_4539be7e4fadce25",
+    "created_at": "2026-05-10T16:30:14+00:00",
+    "request": {
+        "method": "GET",
+        "url": "http://ip-api.com/json",
+        "headers": [],
+        "body": "",
+        "timeout": 30,
+        "follow_redirects": true
+    }
+}
