@@ -1,0 +1,31 @@
+{
+    "ok": true,
+    "task_id": "20260510_163014_4539be7e4fadce25",
+    "finished_at": "2026-05-10T16:30:18+00:00",
+    "response": {
+        "status": 200,
+        "reason": "OK",
+        "headers": {
+            "Date": [
+                "Sun, 10 May 2026 16:30:18 GMT"
+            ],
+            "Content-Type": [
+                "application/json; charset=utf-8"
+            ],
+            "Content-Length": [
+                "300"
+            ],
+            "Access-Control-Allow-Origin": [
+                "*"
+            ],
+            "X-Ttl": [
+                "60"
+            ],
+            "X-Rl": [
+                "44"
+            ]
+        },
+        "body": "eyJzdGF0dXMiOiJzdWNjZXNzIiwiY291bnRyeSI6Ikdlcm1hbnkiLCJjb3VudHJ5Q29kZSI6IkRFIiwicmVnaW9uIjoiU04iLCJyZWdpb25OYW1lIjoiU2F4b255IiwiY2l0eSI6IkZhbGtlbnN0ZWluIiwiemlwIjoiMDgyMjMiLCJsYXQiOjUwLjQ3NzcsImxvbiI6MTIuMzY0OSwidGltZXpvbmUiOiJFdXJvcGUvQmVybGluIiwiaXNwIjoiSGV0em5lciBPbmxpbmUgR21iSCIsIm9yZyI6IkhldHpuZXIgT25saW5lIEdtYkgiLCJhcyI6IkFTMjQ5NDAgSGV0em5lciBPbmxpbmUgR21iSCIsInF1ZXJ5IjoiMTc4LjYzLjE2NS44MSJ9",
+        "body_encoding": "base64"
+    }
+}
