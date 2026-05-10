@@ -1,0 +1,12 @@
+{
+    "task_id": "20260510_163320_6eb5c0fbec7216e6",
+    "created_at": "2026-05-10T16:33:20+00:00",
+    "request": {
+        "method": "GET",
+        "url": "https://iranrebate.com",
+        "headers": [],
+        "body": "",
+        "timeout": 30,
+        "follow_redirects": true
+    }
+}
