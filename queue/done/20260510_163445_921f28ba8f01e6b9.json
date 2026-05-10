@@ -1,0 +1,12 @@
+{
+    "task_id": "20260510_163445_921f28ba8f01e6b9",
+    "created_at": "2026-05-10T16:34:45+00:00",
+    "request": {
+        "method": "GET",
+        "url": "https://myfxbook.com",
+        "headers": [],
+        "body": "",
+        "timeout": 30,
+        "follow_redirects": true
+    }
+}
